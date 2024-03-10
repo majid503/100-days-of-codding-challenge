@@ -6,3 +6,5 @@ console.log(name2. toUpperCase());
 // shows the name in ALL BIG LETTERS
 console.log(name2. charAt(0). toUpperCase() + name2. slice(1). toLowerCase());
 //shows the name with the First Letter Big
+let username: string = "majid"
+console.log(username);
